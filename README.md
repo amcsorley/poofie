@@ -7,9 +7,7 @@ RC Poofer
 [![](http://aaronmcsorley.com/wp-content/uploads/2011/06/poofie-trans-450x488.jpg)](http://aaronmcsorley.com/wp-content/uploads/2011/06/poofie-trans-450x488.jpg)
 
 
-**
-Disclaimer: This project is dangerous, and should only be attempted by an adult, it involves moving, high pressure, large balls of fire.  You will need common sense and a knowledge of [fire safety](http://www.firesafety.gov/kids/flash.shtm) before proceeding. If at any point something feels wrong stop and think about it for a while. Test things before igniting as much as possible, and work in a very well ventilated or outside location when fuel is involved. I am not liable or responsible for any damage you inflict or incur with this information. If you attempt this project you do so at your own risk.
-**
+***Disclaimer: This project is dangerous, and should only be attempted by an adult, it involves moving, high pressure, large balls of fire.  You will need common sense and a knowledge of [fire safety](http://www.firesafety.gov/kids/flash.shtm) before proceeding. If at any point something feels wrong stop and think about it for a while. Test things before igniting as much as possible, and work in a very well ventilated or outside location when fuel is involved. I am not liable or responsible for any damage you inflict or incur with this information. If you attempt this project you do so at your own risk.***
 
 
 
@@ -23,24 +21,9 @@ Disclaimer: This project is dangerous, and should only be attempted by an adult,
 # Tools
 
 
-** **
-
 [![](http://aaronmcsorley.com/wp-content/uploads/2011/06/tools.jpg)](http://aaronmcsorley.com/wp-content/uploads/2011/06/tools.jpg)
 
 
-
-**
-**
-
-
-
-
-
-
-
-
-
-	
   * Vise grip 10WR
 
 	
