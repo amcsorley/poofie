@@ -1,14 +1,7 @@
----
-author: amcsorle
-comments: true
-date: 2011-06-13 22:11:39+00:00
-layout: page
-slug: sample-page
-title: RC Poofer
-wordpress_id: 2
----
+RC Poofer
+=========
 
-** ****Build instructions for a remote controlled flame poofer**
+***Build instructions for a remote controlled flame poofer***
 
 
 [![](http://aaronmcsorley.com/wp-content/uploads/2011/06/poofie-trans-450x488.jpg)](http://aaronmcsorley.com/wp-content/uploads/2011/06/poofie-trans-450x488.jpg)
